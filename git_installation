@@ -9,4 +9,6 @@
  cd cloudinterns/
  git init
  git branch -m main
-
+git clone https://github.com/bindusarika/sarika.git
+ll
+ls -la

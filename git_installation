@@ -1,0 +1,12 @@
+#!/bin/bash
+ yum install git -y
+ git --version
+ git config --global user.name "bindusarika"
+ git config --global user.email "bindusarika333@gmail.com"
+ git config --list
+ mkdir cloudinterns
+ ll
+ cd cloudinterns/
+ git init
+ git branch -m main
+
